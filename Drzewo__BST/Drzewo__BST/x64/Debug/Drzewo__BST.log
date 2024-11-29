@@ -1,0 +1,4 @@
+﻿  BST.cpp
+C:\gry\Drzewo__BST\Drzewo__BST\BST.cpp(50,13): error C2146: błąd składniowy: brakuje „;” przed identyfikatorem „node”
+  Drzewo__BST.cpp
+  Generowanie kodu...
